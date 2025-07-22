@@ -13,3 +13,13 @@ d = f"{s1}good{s2}"
 
 print("output:")
 print(d) #This company is good.
+
+
+#method 2
+'''
+f1 = s.find("not ")
+
+f2 = s.find("at all")+6
+
+d = s[:f1] + "good" + s[f2:]
+'''
