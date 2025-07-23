@@ -1,5 +1,4 @@
 
-# string_replaced.py
 # This code replaces the phrase "not … at all" with "good" in a given string.
 
 print("type your input :")

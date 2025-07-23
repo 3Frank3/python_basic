@@ -1,4 +1,5 @@
-
+# This code finds self-dividing numbers in a given range 
+# calculates the maximum gap between consecutive self-dividing numbers.
 
 a = input("type your input1 :" )
 b = input("type your input2 :" )
